@@ -1,4 +1,4 @@
-# sum of even and odd number
+# sum of even and odd number = 
 num = int(input('Enter a number: '))
 result = 0
 while num != 0:
